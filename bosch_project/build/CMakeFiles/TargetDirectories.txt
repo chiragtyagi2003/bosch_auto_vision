@@ -1,0 +1,3 @@
+C:/Users/HP/Desktop/bosch_auto/bosch_project/build/CMakeFiles/auto_vision.dir
+C:/Users/HP/Desktop/bosch_auto/bosch_project/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/HP/Desktop/bosch_auto/bosch_project/build/CMakeFiles/ZERO_CHECK.dir

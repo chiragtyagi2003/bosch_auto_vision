@@ -1,0 +1,10 @@
+^C:\USERS\HP\DESKTOP\BOSCH_AUTO\BOSCH_PROJECT\BUILD\CMAKEFILES\C24CEADFB46B616CAC86828E0F3A0B5D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/HP/Desktop/bosch_auto/bosch_project -BC:/Users/HP/Desktop/bosch_auto/bosch_project/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/HP/Desktop/bosch_auto/bosch_project/build/auto_vision.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
