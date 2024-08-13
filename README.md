@@ -59,10 +59,3 @@ This project was developed for the Bosch Global Software Technologies Hackathon 
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Feel free to modify and expand this README according to your specific project details and any additional information you might want to include.
